@@ -1,0 +1,21 @@
+Collection: 00 KNI - Foundational Texts & Major Reviews
+PMID: 8632988
+Tags: seminal; biomarker-neuroimaging
+Note: Early structural MRI anchor paper linking recurrent MDD with hippocampal atrophy.
+
+Collection: 01 KNI - Clinical & Translational Psychiatry
+PMID: 29477251
+Tags: seminal; clinical-core
+Note: Network meta-analysis comparing antidepressants across efficacy and tolerability.
+
+Collection: 08 KNI - Interventional Psychiatry, Neuromodulation & Novel Treatments
+PMID: 29282469
+Tags: frontier; ketamine; TRD
+Note: Esketamine pivotal trial in treatment-resistant depression.
+
+Collection: PMC (recent, interesting)
+Type: blog post
+Title: Example implementation note
+URL: https://example.org/implementation-note
+Tags: commentary; implementation
+Note: Example of a non-PubMed source with URL-driven import.
