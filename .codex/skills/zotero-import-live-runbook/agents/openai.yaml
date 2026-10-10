@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zotero Live Operations"
+  short_description: "Dry-run, execute, and verify Zotero changes"
+  default_prompt: "Use $zotero-import-live-runbook to safely dry-run, execute, and verify this live KNI Zotero operation."

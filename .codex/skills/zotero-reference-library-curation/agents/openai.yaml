@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zotero Reference Library Curation"
+  short_description: "Import and organize complete reference libraries"
+  default_prompt: "Use $zotero-reference-library-curation to import a reference library into one primary collection and a small set of thematic hubs."
