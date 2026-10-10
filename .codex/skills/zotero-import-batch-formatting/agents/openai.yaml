@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zotero Batch Formatter"
+  short_description: "Turn references into importer-ready text"
+  default_prompt: "Use $zotero-import-batch-formatting to format these references as valid KNI Zotero importer input without writing to Zotero."

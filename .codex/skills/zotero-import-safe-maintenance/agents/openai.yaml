@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zotero Importer Maintenance"
+  short_description: "Safely change importer code and tests"
+  default_prompt: "Use $zotero-import-safe-maintenance to review or modify the KNI Zotero importer while preserving its safety contracts."
